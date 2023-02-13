@@ -1,6 +1,6 @@
 .xbox .button {
     position: absolute;
-    background: url(GamepadViewer/abxy.png);
+    background: url(abxy.png);
     width: 48px;
     height: 48px;
 }
