@@ -5,3 +5,7 @@
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
+
+.ds4 .touchpad.pressed {
+    background: url(touchpad.png) no-repeat center;
+}
